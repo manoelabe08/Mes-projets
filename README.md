@@ -1,5 +1,3 @@
-# Mes-projets
-
 # Salut, je suis Manoël Abe ! 👋
 
 ### 🎓 Étudiant Ingénieur Data & Cybersécurité @ ESEO Paris
