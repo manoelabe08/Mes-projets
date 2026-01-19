@@ -23,21 +23,21 @@ Je suis un ingénieur en formation passionné par le pont entre le **Hardware** 
 
 ### 🚀 Projets Phares (Mon Portfolio)
 
-#### 📡 [ESEO-Embedded-IoT](https://github.com/manoelabe08/ESEO-Embedded-IoT)
+#### 📡 [ESEO-Embedded-IoT](https://github.com/manoelabe08/ESEO-Portfolio/ESEO-Embedded-IoT)
 
 *Développement bas niveau et systèmes embarqués.*
 
 * **Solar Tracker :** Asservissement PID d'un panneau solaire sur STM32.
 * **Digital Logic :** Conception de machines à états (FSM) en VHDL.
 
-#### 📊 [Data-Science-Analysis](https://github.com/manoelabe08/Data-Science-Analysis)
+#### 📊 [Data-Science-Analysis](https://github.com/manoelabe08/ESEO-Portfolio/Data-Science-Analysis)
 
 *Exploration de données et modélisation mathématique.*
 
 * **Labs Statistiques :** Estimation, tests d'hypothèses et modélisation.
 * **Bases de données :** Conception MCD/MLD et requêtes SQL complexes.
 
-#### 🔐 [Cyber-Network-Lab](https://github.com/manoelabe08/Cyber-Network-Lab)
+#### 🔐 [Cyber-Network-Lab](https://github.com/manoelabe08/ESEO-Portfolio/Cyber-Network-Lab)
 
 *Infrastructure et Sécurité.*
 
