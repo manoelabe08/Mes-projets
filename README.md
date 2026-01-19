@@ -1,3 +1,6 @@
+
+![linkedin-banner](https://github.com/user-attachments/assets/b1937e5f-c6b1-4803-a797-8aa1a375dff4)
+
 # Salut, je suis Manoël Abe ! 👋
 
 ### 🎓 Étudiant Ingénieur Data & Cybersécurité @ ESEO Paris
